@@ -2,7 +2,7 @@ let bg;
 let text0, text1;
 let maxAlpha = 150; // 最大透明度
 let fadeSpeed = 2; // 淡入淡出速度
-let frameInterval = 500; // 每個循環的幀數間隔
+let frameInterval = 400; // 每個循環的幀數間隔
 let currentFrame = 0; // 目前的幀數
 let fadeIn = true; // 是否淡入中
 let dots = []; // 存放閃爍的小亮點
